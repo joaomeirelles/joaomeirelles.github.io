@@ -13,32 +13,33 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li, footer ul li { /*menu*/
     display: inline;
     margin-right: 20px;
 }
-a {
+a { /*link*/
     text-decoration: none;
     color: #999;
 }
 a:hover {
     text-decoration: underline;
 }
-h1 {
+h1 { /*titulo*/
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+p { /*paragrafo*/
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
-footer {
+footer { /*rodape*/
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
-ul.posts { 
+ul.posts { /*lista com bolinhas*/
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
