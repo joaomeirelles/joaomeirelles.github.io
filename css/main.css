@@ -10,7 +10,7 @@ nav ul, footer ul {
 nav ul li, footer ul li { /*menu*/
     display: inline;
     text-transform: uppercase;
-    text-align: justify;
+    text-align: center;
 }
 a { /*link*/
     text-decoration: none;
