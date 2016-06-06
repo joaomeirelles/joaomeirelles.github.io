@@ -12,7 +12,7 @@ nav ul li, footer ul li { /*menu*/
     display: inline;
     /*text-transform: uppercase;*/
     text-align: center;
-    padding-left:50px;
+    padding-left:100px;
 }
 a { /*link*/
     text-decoration: none;
