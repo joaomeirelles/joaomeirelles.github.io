@@ -12,5 +12,6 @@ nav ul li, footer ul li { /*menu*/
 }
 a { /*link*/
     text-decoration: none;
-    color: #999;
+    /*color: #999;*/
+    color: #fe45f3;
 }
