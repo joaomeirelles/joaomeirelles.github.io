@@ -28,14 +28,14 @@ a:hover {
     text-decoration: underline;
 }
 h1 { /*titulo*/
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Georgia'; 
     /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
 }
 p { /*paragrafo*/
     font-family: 'Georgia'; 
     /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
