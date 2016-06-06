@@ -4,9 +4,8 @@ body {
 }
 nav ul, footer ul {
     /*font-family: 'Georgia'; */
-    padding: 0px;
+    padding: 10px;
     list-style: none;
-    font-weight: bold;
 }
 nav ul li, footer ul li { /*menu*/
     display: inline;
@@ -14,8 +13,4 @@ nav ul li, footer ul li { /*menu*/
 a { /*link*/
     text-decoration: none;
     color: #999;
-}
-footer { /*rodape*/
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
