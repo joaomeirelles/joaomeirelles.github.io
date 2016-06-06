@@ -9,6 +9,8 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li { /*menu*/
     display: inline;
+    text-transform: uppercase;
+    text-align: justify;
 }
 a { /*link*/
     text-decoration: none;
