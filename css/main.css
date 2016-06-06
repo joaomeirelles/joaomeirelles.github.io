@@ -1,54 +1,21 @@
-/*body {
-   font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', sans-serif; 
-   font-weight: 300;
-}*/
-
-
 body {
-    font-family: 'Georgia'; 
     margin: 10px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Georgia'; 
-    /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
+    /*font-family: 'Georgia'; */
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li { /*menu*/
     display: inline;
-    margin-right: 20px;
 }
 a { /*link*/
     text-decoration: none;
     color: #999;
 }
-a:hover {
-    text-decoration: underline;
-}
-h1 { /*titulo*/
-    font-size: 2em;
-    font-family: 'Georgia'; 
-    /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
-}
-p { /*paragrafo*/
-    font-family: 'Georgia'; 
-    /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
-    font-size: 1em;
-    line-height: 1.4em;
-    color: #333;
-}
 footer { /*rodape*/
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-}
-
-ul.posts { /*lista com bolinhas*/
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
 }
