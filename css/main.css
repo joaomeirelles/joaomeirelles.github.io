@@ -1,10 +1,10 @@
 body {
-    font-family: 'Courier New';
+    font-family: 'Georgia';
     margin: 5px auto;
     width: 90%;
 }
 nav ul, footer ul {
-    font-family: 'Courier New';
+    font-family: 'Georgia';
     padding: 10px;
     list-style: none;
 }
