@@ -1,10 +1,10 @@
 body {
-    font-family: 'Arial';
+    font-family: 'Courier New';
     margin: 5px auto;
     width: 90%;
 }
 nav ul, footer ul {
-    font-family: 'Arial';
+    font-family: 'Courier New';
     padding: 10px;
     list-style: none;
 }
