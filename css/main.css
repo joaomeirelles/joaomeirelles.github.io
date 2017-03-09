@@ -3,19 +3,19 @@ body {
     margin: 5px auto;
     width: 90%;
 }
+
+/*
 nav ul, footer ul {
     font-family: 'Courier New';
     padding: 10px;
     list-style: none;
 }
-nav ul li, footer ul li { /*menu*/
+nav ul li, footer ul li { 
     display: inline;
-    /*text-transform: uppercase;*/
     text-align: center;
     padding-left:100px;
 }
-a { /*link*/
-    text-decoration: none;
-    /*color: #999;*/
+a { text-decoration: none;
     color: #8342f8;
 }
+*/
