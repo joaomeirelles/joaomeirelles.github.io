@@ -4,6 +4,11 @@ body {
     width: 90%;
 }
 
+}
+a { text-decoration: none;
+    color: #8342f8;
+}
+
 /*
 nav ul, footer ul {
     font-family: 'Courier New';
@@ -14,8 +19,5 @@ nav ul li, footer ul li {
     display: inline;
     text-align: center;
     padding-left:100px;
-}
-a { text-decoration: none;
-    color: #8342f8;
-}
+
 */
