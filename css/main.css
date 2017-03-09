@@ -1,12 +1,13 @@
 body {
     font-family: 'Courier New';
-    margin: 5px auto;
+    margin: 2px auto;
+    margin-top: 1px;
     width: 90%;
 }
 
 }
 a { text-decoration: none;
-    color: #8342f8;
+    color: #7FFF00;
 }
 
 /*
